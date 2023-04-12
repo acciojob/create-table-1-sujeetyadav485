@@ -1,4 +1,4 @@
-//your code here
+
 function createTable() {
     rn = window.prompt("Input rows", 3);
     cn = window.prompt("Input columns",3);
